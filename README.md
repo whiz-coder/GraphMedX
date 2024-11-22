@@ -20,7 +20,7 @@ Make sure Python 3, pip, Node.js, and npm are installed on your system. You can 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/GraphMedX.git
+   git clone [https://github.com/whiz-coder/GraphMedX.git](https://github.com/whiz-coder/GraphMedX.git)
    cd GraphMedX
    ```
 
