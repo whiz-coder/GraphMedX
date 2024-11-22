@@ -1,4 +1,4 @@
-# GraphMedX Project README
+# GraphMedX:AI-Driven Knowledge Graphs for Health Insight
 
 ## Project Introduction
 The GraphMedX project enhances medical data accessibility and comprehension through technological integration. It utilizes Optical Character Recognition (OCR) to convert data from medical documents into analyzable data, employs Natural Language Processing (NLP) for accuracy, and constructs knowledge graphs that visually depict relationships within the data. This facilitates a deeper understanding and better decision-making in medical environments.
