@@ -52,7 +52,7 @@ Make sure Python 3, pip, Node.js, and npm are installed on your system. You can 
      ```bash
      npm start
      ```
-   - This command runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The app will reload if you make edits.
+   - This command runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser..
 
 ### Configurations
 - Ensure the `config_setup.json` file is set up correctly with necessary parameters like paths and IDs before running the applications.
